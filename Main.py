@@ -6,6 +6,8 @@ PROB_ARR = []
 DAYS_ARR = []
 MAIN_CNT = 0
 
+def NLLFunc():
+   print("Test")
 
 def RDG():
     DAYS_ARR.append(random.randrange(1, 365))
