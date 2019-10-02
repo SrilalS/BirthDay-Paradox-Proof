@@ -10,6 +10,9 @@ def NLLFunc():
    print("Test")
 
 def NLLFunc():
+   print("Test") 
+
+def NLLFunc():
    print("Test")
    
 def RDG():
