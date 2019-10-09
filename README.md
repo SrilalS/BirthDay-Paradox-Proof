@@ -1,5 +1,5 @@
-# BirthDay Paradox Proof (Python)
- Proving Birthday Paradox by Using Python
+#  world seven wonders(Python)
+ world seven wonders Using Python
  
  !!!
  UNDER PROGRESS
