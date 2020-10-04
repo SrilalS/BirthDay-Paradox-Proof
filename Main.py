@@ -7,13 +7,13 @@ DAYS_ARR = []
 MAIN_CNT = 0
 
 def NLLFunc():
-   print("Test")
+   print("Hello")
 
 def NLLFunc():
-   print("Test") 
+   print("Hello") 
 
 def NLLFunc():
-   print("Test")
+   print("Hello")
    
 def RDG():
     DAYS_ARR.append(random.randrange(1, 365))
@@ -26,7 +26,7 @@ def ARPRO(DAYS_ARR):
     return DAYS_ARR[0]
 
 def RUNNER():
-    for x in range(50):
+    for x in range(100):
         RDG()
     L = ARPRO(DAYS_ARR)
     print(L[1])
